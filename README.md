@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pawan Udassi</h1>
-<h3 align="center">A passionate blockchain developer from India</h3>
+<h3 align="center">A passionate Blockchain Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udassi-pawan&label=Profile%20views&color=0e75b6&style=flat" alt="udassi-pawan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udassi-pawan" alt="udassi-pawan" /></a> </p>
-
-- 🌱 I’m currently learning **Devops and Full Stack Applications**
+- 🌱 I’m currently learning **Devops and Websockets**
 
 - 💬 Ask me about **MERN and Blockchain**
 
@@ -14,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pawan-udassi-4b56161b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-udassi-4b56161b8" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pawan-udassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pawan-udassi" height="30" width="40" /></a>
 <a href="https://instagram.com/udassipawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udassipawan" height="30" width="40" /></a>
 </p>
 
